@@ -18,57 +18,11 @@ WARNING:
 
 ## Simple Tags
 
--	[`3.4.20-jessie`, `3.4-jessie` (*3.4/Dockerfile*)](https://github.com/docker-library/mongo/blob/135be00ece480b72826d871f5725214c35a1a9ab/3.4/Dockerfile)
--	[`3.4.20-windowsservercore-ltsc2016`, `3.4-windowsservercore-ltsc2016` (*3.4/windows/windowsservercore-ltsc2016/Dockerfile*)](https://github.com/docker-library/mongo/blob/135be00ece480b72826d871f5725214c35a1a9ab/3.4/windows/windowsservercore-ltsc2016/Dockerfile)
--	[`3.4.20-windowsservercore-1709`, `3.4-windowsservercore-1709` (*3.4/windows/windowsservercore-1709/Dockerfile*)](https://github.com/docker-library/mongo/blob/135be00ece480b72826d871f5725214c35a1a9ab/3.4/windows/windowsservercore-1709/Dockerfile)
--	[`3.6.11-stretch`, `3.6-stretch`, `3-stretch` (*3.6/Dockerfile*)](https://github.com/docker-library/mongo/blob/7276b14c1e9b5f83b37f5f452e6a9f293aea2d8b/3.6/Dockerfile)
--	[`3.6.11-windowsservercore-ltsc2016`, `3.6-windowsservercore-ltsc2016`, `3-windowsservercore-ltsc2016` (*3.6/windows/windowsservercore-ltsc2016/Dockerfile*)](https://github.com/docker-library/mongo/blob/7276b14c1e9b5f83b37f5f452e6a9f293aea2d8b/3.6/windows/windowsservercore-ltsc2016/Dockerfile)
--	[`3.6.11-windowsservercore-1709`, `3.6-windowsservercore-1709`, `3-windowsservercore-1709` (*3.6/windows/windowsservercore-1709/Dockerfile*)](https://github.com/docker-library/mongo/blob/7276b14c1e9b5f83b37f5f452e6a9f293aea2d8b/3.6/windows/windowsservercore-1709/Dockerfile)
--	[`4.0.6-xenial`, `4.0-xenial`, `4-xenial`, `xenial` (*4.0/Dockerfile*)](https://github.com/docker-library/mongo/blob/0a423591d7243256819edc97cef579206d01f6c7/4.0/Dockerfile)
--	[`4.0.6-windowsservercore-ltsc2016`, `4.0-windowsservercore-ltsc2016`, `4-windowsservercore-ltsc2016`, `windowsservercore-ltsc2016` (*4.0/windows/windowsservercore-ltsc2016/Dockerfile*)](https://github.com/docker-library/mongo/blob/0a423591d7243256819edc97cef579206d01f6c7/4.0/windows/windowsservercore-ltsc2016/Dockerfile)
--	[`4.0.6-windowsservercore-1709`, `4.0-windowsservercore-1709`, `4-windowsservercore-1709`, `windowsservercore-1709` (*4.0/windows/windowsservercore-1709/Dockerfile*)](https://github.com/docker-library/mongo/blob/0a423591d7243256819edc97cef579206d01f6c7/4.0/windows/windowsservercore-1709/Dockerfile)
--	[`4.0.6-windowsservercore-1803`, `4.0-windowsservercore-1803`, `4-windowsservercore-1803`, `windowsservercore-1803` (*4.0/windows/windowsservercore-1803/Dockerfile*)](https://github.com/docker-library/mongo/blob/0a423591d7243256819edc97cef579206d01f6c7/4.0/windows/windowsservercore-1803/Dockerfile)
--	[`4.1.9-xenial`, `4.1-xenial`, `unstable-xenial` (*4.1/Dockerfile*)](https://github.com/docker-library/mongo/blob/419e28b751ca1edc470832fa890f9df46545679d/4.1/Dockerfile)
--	[`4.1.8-windowsservercore-ltsc2016`, `4.1-windowsservercore-ltsc2016`, `unstable-windowsservercore-ltsc2016` (*4.1/windows/windowsservercore-ltsc2016/Dockerfile*)](https://github.com/docker-library/mongo/blob/f1775b5e7710b94d08726c7aeaba528ddab52fae/4.1/windows/windowsservercore-ltsc2016/Dockerfile)
--	[`4.1.8-windowsservercore-1709`, `4.1-windowsservercore-1709`, `unstable-windowsservercore-1709` (*4.1/windows/windowsservercore-1709/Dockerfile*)](https://github.com/docker-library/mongo/blob/f1775b5e7710b94d08726c7aeaba528ddab52fae/4.1/windows/windowsservercore-1709/Dockerfile)
--	[`4.1.8-windowsservercore-1803`, `4.1-windowsservercore-1803`, `unstable-windowsservercore-1803` (*4.1/windows/windowsservercore-1803/Dockerfile*)](https://github.com/docker-library/mongo/blob/f1775b5e7710b94d08726c7aeaba528ddab52fae/4.1/windows/windowsservercore-1803/Dockerfile)
+
 
 ## Shared Tags
 
--	`3.4.20`, `3.4`:
-	-	[`3.4.20-jessie` (*3.4/Dockerfile*)](https://github.com/docker-library/mongo/blob/135be00ece480b72826d871f5725214c35a1a9ab/3.4/Dockerfile)
-	-	[`3.4.20-windowsservercore-ltsc2016` (*3.4/windows/windowsservercore-ltsc2016/Dockerfile*)](https://github.com/docker-library/mongo/blob/135be00ece480b72826d871f5725214c35a1a9ab/3.4/windows/windowsservercore-ltsc2016/Dockerfile)
-	-	[`3.4.20-windowsservercore-1709` (*3.4/windows/windowsservercore-1709/Dockerfile*)](https://github.com/docker-library/mongo/blob/135be00ece480b72826d871f5725214c35a1a9ab/3.4/windows/windowsservercore-1709/Dockerfile)
--	`3.4.20-windowsservercore`, `3.4-windowsservercore`:
-	-	[`3.4.20-windowsservercore-ltsc2016` (*3.4/windows/windowsservercore-ltsc2016/Dockerfile*)](https://github.com/docker-library/mongo/blob/135be00ece480b72826d871f5725214c35a1a9ab/3.4/windows/windowsservercore-ltsc2016/Dockerfile)
-	-	[`3.4.20-windowsservercore-1709` (*3.4/windows/windowsservercore-1709/Dockerfile*)](https://github.com/docker-library/mongo/blob/135be00ece480b72826d871f5725214c35a1a9ab/3.4/windows/windowsservercore-1709/Dockerfile)
--	`3.6.11`, `3.6`, `3`:
-	-	[`3.6.11-stretch` (*3.6/Dockerfile*)](https://github.com/docker-library/mongo/blob/7276b14c1e9b5f83b37f5f452e6a9f293aea2d8b/3.6/Dockerfile)
-	-	[`3.6.11-windowsservercore-ltsc2016` (*3.6/windows/windowsservercore-ltsc2016/Dockerfile*)](https://github.com/docker-library/mongo/blob/7276b14c1e9b5f83b37f5f452e6a9f293aea2d8b/3.6/windows/windowsservercore-ltsc2016/Dockerfile)
-	-	[`3.6.11-windowsservercore-1709` (*3.6/windows/windowsservercore-1709/Dockerfile*)](https://github.com/docker-library/mongo/blob/7276b14c1e9b5f83b37f5f452e6a9f293aea2d8b/3.6/windows/windowsservercore-1709/Dockerfile)
--	`3.6.11-windowsservercore`, `3.6-windowsservercore`, `3-windowsservercore`:
-	-	[`3.6.11-windowsservercore-ltsc2016` (*3.6/windows/windowsservercore-ltsc2016/Dockerfile*)](https://github.com/docker-library/mongo/blob/7276b14c1e9b5f83b37f5f452e6a9f293aea2d8b/3.6/windows/windowsservercore-ltsc2016/Dockerfile)
-	-	[`3.6.11-windowsservercore-1709` (*3.6/windows/windowsservercore-1709/Dockerfile*)](https://github.com/docker-library/mongo/blob/7276b14c1e9b5f83b37f5f452e6a9f293aea2d8b/3.6/windows/windowsservercore-1709/Dockerfile)
--	`4.0.6`, `4.0`, `4`, `latest`:
-	-	[`4.0.6-xenial` (*4.0/Dockerfile*)](https://github.com/docker-library/mongo/blob/0a423591d7243256819edc97cef579206d01f6c7/4.0/Dockerfile)
-	-	[`4.0.6-windowsservercore-ltsc2016` (*4.0/windows/windowsservercore-ltsc2016/Dockerfile*)](https://github.com/docker-library/mongo/blob/0a423591d7243256819edc97cef579206d01f6c7/4.0/windows/windowsservercore-ltsc2016/Dockerfile)
-	-	[`4.0.6-windowsservercore-1709` (*4.0/windows/windowsservercore-1709/Dockerfile*)](https://github.com/docker-library/mongo/blob/0a423591d7243256819edc97cef579206d01f6c7/4.0/windows/windowsservercore-1709/Dockerfile)
-	-	[`4.0.6-windowsservercore-1803` (*4.0/windows/windowsservercore-1803/Dockerfile*)](https://github.com/docker-library/mongo/blob/0a423591d7243256819edc97cef579206d01f6c7/4.0/windows/windowsservercore-1803/Dockerfile)
--	`4.0.6-windowsservercore`, `4.0-windowsservercore`, `4-windowsservercore`, `windowsservercore`:
-	-	[`4.0.6-windowsservercore-ltsc2016` (*4.0/windows/windowsservercore-ltsc2016/Dockerfile*)](https://github.com/docker-library/mongo/blob/0a423591d7243256819edc97cef579206d01f6c7/4.0/windows/windowsservercore-ltsc2016/Dockerfile)
-	-	[`4.0.6-windowsservercore-1709` (*4.0/windows/windowsservercore-1709/Dockerfile*)](https://github.com/docker-library/mongo/blob/0a423591d7243256819edc97cef579206d01f6c7/4.0/windows/windowsservercore-1709/Dockerfile)
-	-	[`4.0.6-windowsservercore-1803` (*4.0/windows/windowsservercore-1803/Dockerfile*)](https://github.com/docker-library/mongo/blob/0a423591d7243256819edc97cef579206d01f6c7/4.0/windows/windowsservercore-1803/Dockerfile)
--	`4.1.9`:
-	-	[`4.1.9-xenial` (*4.1/Dockerfile*)](https://github.com/docker-library/mongo/blob/419e28b751ca1edc470832fa890f9df46545679d/4.1/Dockerfile)
--	`4.1`, `unstable`:
-	-	[`4.1.9-xenial` (*4.1/Dockerfile*)](https://github.com/docker-library/mongo/blob/419e28b751ca1edc470832fa890f9df46545679d/4.1/Dockerfile)
-	-	[`4.1.8-windowsservercore-ltsc2016` (*4.1/windows/windowsservercore-ltsc2016/Dockerfile*)](https://github.com/docker-library/mongo/blob/f1775b5e7710b94d08726c7aeaba528ddab52fae/4.1/windows/windowsservercore-ltsc2016/Dockerfile)
-	-	[`4.1.8-windowsservercore-1709` (*4.1/windows/windowsservercore-1709/Dockerfile*)](https://github.com/docker-library/mongo/blob/f1775b5e7710b94d08726c7aeaba528ddab52fae/4.1/windows/windowsservercore-1709/Dockerfile)
-	-	[`4.1.8-windowsservercore-1803` (*4.1/windows/windowsservercore-1803/Dockerfile*)](https://github.com/docker-library/mongo/blob/f1775b5e7710b94d08726c7aeaba528ddab52fae/4.1/windows/windowsservercore-1803/Dockerfile)
--	`4.1.8-windowsservercore`, `4.1-windowsservercore`, `unstable-windowsservercore`, `4.1.8`:
-	-	[`4.1.8-windowsservercore-ltsc2016` (*4.1/windows/windowsservercore-ltsc2016/Dockerfile*)](https://github.com/docker-library/mongo/blob/f1775b5e7710b94d08726c7aeaba528ddab52fae/4.1/windows/windowsservercore-ltsc2016/Dockerfile)
-	-	[`4.1.8-windowsservercore-1709` (*4.1/windows/windowsservercore-1709/Dockerfile*)](https://github.com/docker-library/mongo/blob/f1775b5e7710b94d08726c7aeaba528ddab52fae/4.1/windows/windowsservercore-1709/Dockerfile)
-	-	[`4.1.8-windowsservercore-1803` (*4.1/windows/windowsservercore-1803/Dockerfile*)](https://github.com/docker-library/mongo/blob/f1775b5e7710b94d08726c7aeaba528ddab52fae/4.1/windows/windowsservercore-1803/Dockerfile)
+[![Build Status](https://doi-janky.infosiftr.net/job/multiarch/job/arm32v6/job/mongo/badge/icon) (`arm32v6/mongo` build job)](https://doi-janky.infosiftr.net/job/multiarch/job/arm32v6/job/mongo/)
 
 # Quick reference
 
@@ -113,7 +67,7 @@ First developed by the software company 10gen (now MongoDB Inc.) in October 2007
 ## Start a `mongo` server instance
 
 ```console
-$ docker run --name some-mongo -d mongo:tag
+$ docker run --name some-mongo -d arm32v6/mongo:tag
 ```
 
 ... where `some-mongo` is the name you want to assign to your container and tag is the tag specifying the MongoDB version you want. See the list above for relevant tags.
@@ -123,7 +77,7 @@ $ docker run --name some-mongo -d mongo:tag
 The MongoDB server in the image listens on the standard MongoDB port, `27017`, so connecting via Docker networks will be the same as connecting to a remote `mongod`. The following example starts another MongoDB container instance and runs the `mongo` command line client against the original MongoDB container from the example above, allowing you to execute MongoDB statements against your database instance:
 
 ```console
-$ docker run -it --network some-network --rm mongo mongo --host some-mongo test
+$ docker run -it --network some-network --rm arm32v6/mongo mongo --host some-mongo test
 ```
 
 ... where `some-mongo` is the name of your original `mongo` container.
@@ -161,7 +115,7 @@ Run `docker stack deploy -c stack.yml mongo` (or `docker-compose -f stack.yml up
 
 ## Container shell access and viewing MongoDB logs
 
-The `docker exec` command allows you to run commands inside a Docker container. The following command line will give you a bash shell inside your `mongo` container:
+The `docker exec` command allows you to run commands inside a Docker container. The following command line will give you a bash shell inside your `arm32v6/mongo` container:
 
 ```console
 $ docker exec -it some-mongo bash
@@ -182,7 +136,7 @@ See the [MongoDB manual](https://docs.mongodb.com/manual/) for information on us
 Most MongoDB configuration can be set through flags to `mongod`. The entrypoint of the image is created to pass its arguments along to `mongod`. See below an example of setting MongoDB to use a [smaller default file size](https://docs.mongodb.com/manual/reference/program/mongod/#cmdoption-mongod-smallfiles) via `docker run`.
 
 ```console
-$ docker run --name some-mongo -d mongo --smallfiles
+$ docker run --name some-mongo -d arm32v6/mongo --smallfiles
 ```
 
 And here is the same with a `docker-compose.yml` file
@@ -191,14 +145,14 @@ And here is the same with a `docker-compose.yml` file
 version: '3.1'
 services:
   mongo:
-    image: mongo
+    image: arm32v6/mongo
     command: --smallfiles
 ```
 
 To see the full list of possible options, check the MongoDB manual on [`mongod`](https://docs.mongodb.com/manual/reference/program/mongod/) or check the `--help` output of `mongod`:
 
 ```console
-$ docker run -it --rm mongo --help
+$ docker run -it --rm arm32v6/mongo --help
 ```
 
 ## Setting WiredTiger cache size limits
@@ -208,19 +162,19 @@ By default Mongo will set the `wiredTigerCacheSizeGB` to a value proportional to
 Taking the examples above you can configure the cache size to use 1.5GB as:
 
 ```console
-$ docker run --name some-mongo -d mongo --wiredTigerCacheSizeGB 1.5
+$ docker run --name some-mongo -d arm32v6/mongo --wiredTigerCacheSizeGB 1.5
 ```
 
 See [the upstream "WiredTiger Options" documentation](https://docs.mongodb.com/manual/reference/program/mongod/#wiredtiger-options) for more details.
 
 ## Using a custom MongoDB configuration file
 
-For a more complicated configuration setup, you can still use the MongoDB configuration file. `mongod` does not read a configuration file by default, so the `--config` option with the path to the configuration file needs to be specified. Create a custom configuration file and put it in the container by either creating a custom Dockerfile `FROM mongo` or mounting it from the host machine to the container. See the MongoDB manual for a full list of [configuration file](https://docs.mongodb.com/manual/reference/configuration-options/) options.
+For a more complicated configuration setup, you can still use the MongoDB configuration file. `mongod` does not read a configuration file by default, so the `--config` option with the path to the configuration file needs to be specified. Create a custom configuration file and put it in the container by either creating a custom Dockerfile `FROM arm32v6/mongo` or mounting it from the host machine to the container. See the MongoDB manual for a full list of [configuration file](https://docs.mongodb.com/manual/reference/configuration-options/) options.
 
 For example, `/my/custom/mongod.conf` is the path to the custom configuration file. Then start the MongoDB container like the following:
 
 ```console
-$ docker run --name some-mongo -v /my/custom:/etc/mongo -d mongo --config /etc/mongo/mongod.conf
+$ docker run --name some-mongo -v /my/custom:/etc/mongo -d arm32v6/mongo --config /etc/mongo/mongod.conf
 ```
 
 ## Environment Variables
@@ -237,9 +191,9 @@ The following is an example of using these two variables to create a MongoDB ins
 $ docker run -d --network some-network --name some-mongo \
 	-e MONGO_INITDB_ROOT_USERNAME=mongoadmin \
 	-e MONGO_INITDB_ROOT_PASSWORD=secret \
-	mongo
+	arm32v6/mongo
 
-$ docker run -it --rm --network some-network mongo \
+$ docker run -it --rm --network some-network arm32v6/mongo \
 	mongo --host some-mongo \
 		-u mongoadmin \
 		-p secret \
@@ -262,7 +216,7 @@ This variable allows you to specify the name of a database to be used for creati
 As an alternative to passing sensitive information via environment variables, `_FILE` may be appended to the previously listed environment variables, causing the initialization script to load the values for those variables from files present in the container. In particular, this can be used to load passwords from Docker secrets stored in `/run/secrets/<secret_name>` files. For example:
 
 ```console
-$ docker run --name some-mongo -e MONGO_INITDB_ROOT_PASSWORD_FILE=/run/secrets/mongo-root -d mongo
+$ docker run --name some-mongo -e MONGO_INITDB_ROOT_PASSWORD_FILE=/run/secrets/mongo-root -d arm32v6/mongo
 ```
 
 Currently, this is only supported for `MONGO_INITDB_ROOT_USERNAME` and `MONGO_INITDB_ROOT_PASSWORD`.
@@ -300,7 +254,7 @@ The Docker documentation is a good starting point for understanding the differen
 2.	Start your `mongo` container like this:
 
 	```console
-	$ docker run --name some-mongo -v /my/own/datadir:/data/db -d mongo
+	$ docker run --name some-mongo -v /my/own/datadir:/data/db -d arm32v6/mongo
 	```
 
 The `-v /my/own/datadir:/data/db` part of the command mounts the `/my/own/datadir` directory from the underlying host system as `/data/db` inside the container, where MongoDB by default will write its data files.
@@ -314,27 +268,6 @@ Most of the normal tools will work, although their usage might be a little convo
 ```console
 $ docker exec some-mongo sh -c 'exec mongodump -d <database_name> --archive' > /some/path/on/your/host/all-collections.archive
 ```
-
-# Image Variants
-
-The `mongo` images come in many flavors, each designed for a specific use case.
-
-## `mongo:<version>`
-
-This is the defacto image. If you are unsure about what your needs are, you probably want to use this one. It is designed to be used both as a throw away container (mount your source code and start the container to start your app), as well as the base to build other images off of.
-
-Some of these tags may have names like jessie or stretch in them. These are the suite code names for releases of [Debian](https://wiki.debian.org/DebianReleases) and indicate which release the image is based on.
-
-Some of these tags may have names like xenial in them. These are the suite code names for releases of [Ubuntu](https://wiki.ubuntu.com/Releases) and indicate which release the image is based on.
-
-## `mongo:<version>-windowsservercore`
-
-This image is based on [Windows Server Core (`microsoft/windowsservercore`)](https://hub.docker.com/r/microsoft/windowsservercore/). As such, it only works in places which that image does, such as Windows 10 Professional/Enterprise (Anniversary Edition) or Windows Server 2016.
-
-For information about how to get Docker running on Windows, please see the relevant "Quick Start" guide provided by Microsoft:
-
--	[Windows Server Quick Start](https://msdn.microsoft.com/en-us/virtualization/windowscontainers/quick_start/quick_start_windows_server)
--	[Windows 10 Quick Start](https://msdn.microsoft.com/en-us/virtualization/windowscontainers/quick_start/quick_start_windows_10)
 
 # License
 
