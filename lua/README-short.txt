@@ -1,0 +1,1 @@
+Lua is an interpreted, interactive, embeddable, lightweight, multi-paradigm, open-source programming language.
